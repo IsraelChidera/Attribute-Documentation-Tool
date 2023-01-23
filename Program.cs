@@ -8,9 +8,6 @@ namespace Documentation_client
 {
     internal class Program
     {
-
-        
-
         static void Main(string[] args)
         {
             //DocumentDescription.WriteDocsToTxtFile();
