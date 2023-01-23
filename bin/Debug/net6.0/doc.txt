@@ -1,0 +1,35 @@
+Method
+DisplayVehicleDetails
+Description: 
+	This method displays the details of the vehicle
+
+Constructor
+.ctor
+Description: 
+	This initializes the vehicle
+
+Constructor
+.ctor
+Description: 
+	This initializes the Vehicle with a name, descriptionmodel and speed
+
+Property
+Name
+Description: 
+	This initializes the Vehicle with a name
+
+Property
+Description
+Description: 
+	This sets and gets the description of the vehicle
+
+Property
+Model
+Description: 
+	This sets and gets the model of the vehicle
+
+Property
+Speed
+Description: 
+	This sets and gets the speed of the vehicle
+
