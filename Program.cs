@@ -13,7 +13,8 @@ namespace Documentation_client
             //DocumentationDisplay.GetDocs();
             
             Serializers serialize = new();
-            serialize.ToText();
+            //serialize.ToText();
+            serialize.ToJson();
 
            
         }
