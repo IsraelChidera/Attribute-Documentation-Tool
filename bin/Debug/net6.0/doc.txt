@@ -1,3 +1,8 @@
+NestedType
+Vehicle
+Description: 
+	This is a blueprint for a vehicle
+
 Method
 DisplayVehicleDetails
 Description: 
