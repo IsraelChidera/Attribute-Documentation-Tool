@@ -9,10 +9,13 @@ namespace Documentation_client
     internal class Program
     {
         static void Main(string[] args)
-        {            
+        {                        
             //DocumentationDisplay.GetDocs();
-            Serializers s = new();
-            s.ToText();
+            
+            Serializers serialize = new();
+            serialize.ToText();
+
+           
         }
     }
 }

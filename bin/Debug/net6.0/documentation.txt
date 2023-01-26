@@ -1,1 +1,73 @@
+Fields: vehicleModel
+Description: This is a field for the model of the vehicle
+
+Fields: vehiclePrice
+Description: This is a field for the price of the vehicle
+
+Property: Name
+Description: This initializes the Vehicle with a name
+
+Property: Description
+Description: This sets and gets the description of the vehicle
+
+Property: Model
+Description: This sets and gets the model of the vehicle
+
+Property: Speed
+Description: This sets and gets the speed of the vehicle
+
+Constructor: Name
+Description: This initializes the Vehicle with a name
+
+Constructor: Description
+Description: This sets and gets the description of the vehicle
+
+Constructor: Model
+Description: This sets and gets the model of the vehicle
+
+Constructor: Speed
+Description: This sets and gets the speed of the vehicle
+
+Method: DisplayVehicleDetails
+Description: This method displays the details of the vehicle
+
+Method: MoveVehicle
+Description: This method tells the vehicle to move
+
+Fields: vehicleModel
+Description: This is a field for the model of the vehicle
+
+Fields: vehiclePrice
+Description: This is a field for the price of the vehicle
+
+Property: Name
+Description: This initializes the Vehicle with a name
+
+Property: Description
+Description: This sets and gets the description of the vehicle
+
+Property: Model
+Description: This sets and gets the model of the vehicle
+
+Property: Speed
+Description: This sets and gets the speed of the vehicle
+
+Constructor: Name
+Description: This initializes the Vehicle with a name
+
+Constructor: Description
+Description: This sets and gets the description of the vehicle
+
+Constructor: Model
+Description: This sets and gets the model of the vehicle
+
+Constructor: Speed
+Description: This sets and gets the speed of the vehicle
+
+Method: DisplayVehicleDetails
+Description: This method displays the details of the vehicle
+
+Method: MoveVehicle
+Description: This method tells the vehicle to move
+
 
